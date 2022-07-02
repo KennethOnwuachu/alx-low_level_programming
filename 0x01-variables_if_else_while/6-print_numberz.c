@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description -  prints all single digit numbers 0 to 10 
+ * Description - prints all single digit numbers 0 to 10 
  *
  * Return: Always 0 (Success)
  */

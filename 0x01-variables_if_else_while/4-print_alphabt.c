@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-/*
- * main- Entry point
+/**
+ * Main - Entry point
  *
  * Description - prints the alphabets in lower cases followed by a new line
  *

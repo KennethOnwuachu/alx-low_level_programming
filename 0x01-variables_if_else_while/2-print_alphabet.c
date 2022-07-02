@@ -3,16 +3,16 @@
 /**
  * Main - Entry point
  *
- * Description: Prints alphabet
+ * Description: Prints A-Z
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char letter;
+	char ch;
 
-	for (letter = 'a'; letter <= 'z'; letter++)
-		putchar(letter);
+	for (ch = 'a'; ch <= 'z'; letter++)
+		putchar(ch);
 	putchar('\n');
 	return (0);
 }

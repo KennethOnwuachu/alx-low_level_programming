@@ -4,6 +4,8 @@
 
 /**
  * main - Determines if a number is positive, negative or zero
+ * 
+ * Description: this code shows conditional statements
  *
  * Return: always 0 (Success)
  */

@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /*
  * main -Entry point
@@ -8,12 +8,12 @@
  * Return : Always 0 (Success)
  */
 
-int main(void)
+void print_alphabet(void)
 {
-	int i;
+	char c;
 
-	for (i = 97; i <= 122; i++)
-		putchar(" %d + '0'");
-
-	return (0);
+	for (c = 'a'; c <= 'z'; c++)
+	{_putchar(c);
+	}
+	_putchar('\n');
 }

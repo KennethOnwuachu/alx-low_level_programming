@@ -3,7 +3,7 @@
 /*
  * main -Entry point
  *
- * print_alphabet : This function prints alphabetsin lower cases
+ * print_alphabet- function to print abc
  *
  * Return : Always 0 (Success)
  */

@@ -9,6 +9,8 @@
  */
 
 void print_alphabet(void)
+/* prints alphabet
+ */
 {
 	char c;
 

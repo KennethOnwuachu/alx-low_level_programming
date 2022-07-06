@@ -5,7 +5,7 @@
  * @n: character to be checked
  *
  * Return: check code
- * */
+ */
 
 int print_sign(int n)
 {

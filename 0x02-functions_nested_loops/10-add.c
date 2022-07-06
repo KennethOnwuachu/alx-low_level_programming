@@ -5,10 +5,14 @@
  * @a: integer 1 to be added
  * @b: integer 2 to be added
  *
- * return: check code
+ * return: sum of a and b
  */
 
 int add(int a, int b)
 {
-	return (a + b);
+	int c;
+
+	c = a + b;
+
+	return (c);
 }

@@ -5,7 +5,7 @@
  * @c: is the int that will use for the argument of function
  * Return : 0
  */
-int _alpha(int c)
+int _alpha (int c)
 {
 	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	{

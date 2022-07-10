@@ -1,9 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 
-/**print_numbers : code to print numbers 0 to 9
+/**
+* print_numbers : code to print numbers 0 to 9
 *
-*Returns nothing
+* Returns nothing
 */
 
 void print_numbers(void)

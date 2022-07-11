@@ -2,8 +2,8 @@
 
 /** main - code prints a straight line
 *
-* Return 0 (Success)
-*@n: times straight line is printed
+* @n: times straight line is printed
+* Return: nothing
 */
 void print_line(int n)
 {

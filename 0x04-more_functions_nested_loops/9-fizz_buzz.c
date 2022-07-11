@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-/* main - code to print fizzbuzz for 3 and 5 
+/**
+ * main - code to print fizzbuzz for 3 and 5
  *
  * Description: numbers 1 to 100 then multiples of 3 and 5
  * Return: Always 0(Success)
  */
-
 int main(void)
 {
 	int i;

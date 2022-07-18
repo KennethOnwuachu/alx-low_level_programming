@@ -5,6 +5,7 @@
 * @dest - 1st string
 * @src - 2nd string
 * @n - value of int 
+*
 * Return : Dest 
 */
 char *_strncat(char *dest, char *src, int n)

@@ -1,7 +1,7 @@
 #include "main.h"
 
-/** 
-*_print_rec_recursion: a function that uses recursions to print a string
+/**
+* _print_rec_recursion - a function that uses recursions to print a string
 * in reverse.
 * @s : takes in a pointer to a character
 *

@@ -3,8 +3,8 @@
 
 /**
 * Main - to write a program that prints its name
-* @a: takes in a as count
-* @b: takes in b as arguments
+* @argc: takes in a as count
+* @argv: array of pointer to strings
 *
 * Return: return (0) always
 */

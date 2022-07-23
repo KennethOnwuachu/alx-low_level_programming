@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
 * main - this program prints all arguments that it receives
 * @argc: counts the number of argument
-* @argv: the argument 
+* @argv: the argument
 *
 */
 int main(int argc, char *argv[])

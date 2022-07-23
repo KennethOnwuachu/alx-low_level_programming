@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
-* Main - to write a program that prints its name
+* main - to write a program that prints its name
 * @argc: takes in a as count
 * @argv: array of pointer to strings
 *

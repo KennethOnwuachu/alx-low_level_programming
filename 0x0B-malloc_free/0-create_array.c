@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
-* create_array function - creates an array of characters
+* create_array - creates an array of characters
 * @size : unsigned int
 * @c : char
 * Return: null if size is 0

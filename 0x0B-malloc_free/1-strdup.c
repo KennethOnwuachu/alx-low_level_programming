@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
-* _strdup - function that returns a pointer to a newly allocated space in memory
+* _strdup - function returns a pointer to a newly allocated space in memory
 * @str : string
 *
 * Return: NULL if str = NULL
@@ -12,7 +12,7 @@ char *_strdup(char *str)
 {
 	char *strout;
 	unsigned int i, j;
-	
+
 	if (str == NULL)
 		return (NULL);
 	for (i = 0; str[i] != '\0'; i++)

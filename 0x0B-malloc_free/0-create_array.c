@@ -2,7 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* Main - function that creates an array of chars and initializes it
+/** 
+* Main - function that creates an array of chars and initializes it
 * @size : unsigned int
 * @c : char
 * Return: null if size is 0

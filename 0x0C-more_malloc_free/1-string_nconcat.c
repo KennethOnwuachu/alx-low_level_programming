@@ -20,7 +20,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	if (ptr == NULL)
 		return(NULL);
 	if (s1 == NULL)
-		return NULL;
+		s1 = 0;
 	if (s2 == NULL)
 		s2 = 0;
 
